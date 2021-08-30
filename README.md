@@ -1,4 +1,4 @@
-#Practice assignment 2
+# Practice assignment 2
 - This assignment entailed learning the concept of web scraping by using the read_html function in both R and Python.
 - After which the data collected was converted into a Data frame.
 - The Data was then converted to a csv file using the df to csv function in both.
